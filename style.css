@@ -2,6 +2,7 @@
 .itemCake{
     display: flex;
     flex-direction: column;
+    border-bottom: solid palevioletred 3px;
 }
 
 .firstBox{
@@ -19,6 +20,8 @@ h1{
     border-bottom: 1px solid palevioletred;
     position: relative;
     margin: auto;
+    margin-top: 30px;
+    margin-bottom: 15px;
 }
 
 .strArea {
@@ -26,8 +29,8 @@ h1{
     padding: 5px;
     background-color: palevioletred;
     color: white;
-    margin-left: 10px;
-    margin-right: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
     margin-top: 10px;
     font-size: 24px;
     text-align: center;
@@ -38,8 +41,8 @@ h1{
     padding: 5px;
     background-color: palevioletred;
     color: white;
-    margin-left: 10px;
-    margin-right: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
     margin-top: 10px;
     font-size: 24px;
     text-align: center;
@@ -52,8 +55,8 @@ h1{
     padding: 5px;
     background-color: rgb(243, 205, 158);
     color: white;
-    margin-left: 10px;
-    margin-right: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
     margin-top: 10px;
     font-size: 24px;
     margin-bottom: 10px;
@@ -70,8 +73,8 @@ img{
     background-color: rgb(243, 205, 158);
     color: white;
     font-size: 24px;
-    margin-left: 10px;
-    margin-right: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
     margin-top: 10px;
     margin-bottom: 10px;
 }
@@ -81,8 +84,10 @@ img{
     color: black;
     border-bottom: black;
     font-size: 20px;
+    margin-bottom: 50px;
 
 }
 .flex {
     display: flex;
 }
+
